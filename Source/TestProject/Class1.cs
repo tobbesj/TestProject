@@ -9,5 +9,6 @@ namespace TestProject
     public class Class1
     {
         string test = "master";
+        string test2 = "feature 1 xxx";
     }
 }
