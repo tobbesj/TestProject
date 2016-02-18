@@ -8,10 +8,6 @@ namespace TestProject
 {
     public class Class1
     {
-<<<<<<< HEAD
-        string test = "ändring2";
-=======
-        string test = "ändring 1";
->>>>>>> feature1
+        string test = "master";
     }
 }
