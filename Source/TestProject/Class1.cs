@@ -8,6 +8,7 @@ namespace TestProject
 {
     public class Class1
     {
+
         string test = "master";
         string test2 = "feature 1 xxx";
         string test3 = "feature 1 yyy";
@@ -15,5 +16,12 @@ namespace TestProject
         string test5 = "ändring i feature xyz";
         string test6 = "ändring i feature xyz 2";
 
+
+        public void TestInFeatureZZZ()
+        {
+
+        }
     }
+
+    
 }
