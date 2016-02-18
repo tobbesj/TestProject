@@ -8,5 +8,6 @@ namespace TestProject
 {
     public class Class1
     {
+        string test = "ändring 1";
     }
 }
